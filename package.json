@@ -1,0 +1,24 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "A simple Pong game built using HTML, CSS, and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [
+    "pong",
+    "game",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
